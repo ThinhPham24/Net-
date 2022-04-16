@@ -1,0 +1,11 @@
+2021-09-02 21:20:04,180 - Model - INFO - PARAMETER ...
+2021-09-02 21:20:04,180 - Model - INFO - Namespace(batch_size=4, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=1)
+2021-09-02 21:20:04,184 - Model - INFO - The number of test data is: 60
+2021-09-02 21:22:02,358 - Model - INFO - PARAMETER ...
+2021-09-02 21:22:02,358 - Model - INFO - Namespace(batch_size=4, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=1)
+2021-09-02 21:22:02,359 - Model - INFO - The number of test data is: 60
+2021-09-02 21:22:11,409 - Model - INFO - eval mIoU of Orchid         0.775369
+2021-09-02 21:22:11,409 - Model - INFO - Accuracy is: 0.88722
+2021-09-02 21:22:11,409 - Model - INFO - Class avg accuracy is: nan
+2021-09-02 21:22:11,409 - Model - INFO - Class avg mIOU is: 0.77537
+2021-09-02 21:22:11,409 - Model - INFO - Inctance avg mIOU is: 0.77537
